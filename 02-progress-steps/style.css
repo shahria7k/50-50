@@ -67,6 +67,7 @@ text-align: center;
     border: 3px solid var(--line-border-empty);
 }
 .circle.active{
+    transition-delay: 0.3s;
     border-color: var(--line-border-fill);
 }
 .btn{
